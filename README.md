@@ -6,6 +6,8 @@ RCIA is a beginner-friendly, local-first FastAPI application for reasoning about
 
 Open the deployed application at [https://rcia.onrender.com/](https://rcia.onrender.com/).
 
+For the complete academic report and technical documentation, see [PROJECT_REPORT.md](PROJECT_REPORT.md). UI reference screenshots are included in [docs/screenshots](docs/screenshots/).
+
 ## What is implemented
 
 - PDF parsing with PyMuPDF and DOCX parsing with `python-docx`.
