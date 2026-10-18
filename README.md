@@ -2,6 +2,10 @@
 
 RCIA is a beginner-friendly, local-first FastAPI application for reasoning about the likely consequences of changing a software requirement. It extracts requirements from PDF/DOCX files, lets a reviewer correct them, and produces an evidence-backed impact report with dependency signals, risks, effort heuristics, recommendations, and regression tests.
 
+## Live demo
+
+Open the deployed application at [https://rcia.onrender.com/](https://rcia.onrender.com/).
+
 ## What is implemented
 
 - PDF parsing with PyMuPDF and DOCX parsing with `python-docx`.
